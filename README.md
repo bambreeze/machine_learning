@@ -4,6 +4,7 @@ collections of machine learning
 Windows
 =======
 $ conda activate tf_2c
+
 $ jupyter lab
 
 MAC
